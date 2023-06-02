@@ -270,7 +270,7 @@ function Navbar() {
               aria-expanded={profilePopup}
             >
               <span className="mr-2 d-none d-lg-inline text-gray-600 small">
-                Nithish Kumar N
+                Nivetha T
               </span>
               <img className="img-profile rounded-circle" src={ProfilePic} />
             </a>
